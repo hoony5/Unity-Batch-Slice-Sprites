@@ -2,6 +2,7 @@
 
 ## Intro.
 
+##### * <b>SpriteMetaData</b> to TextureImporter.spritesheet is <b>Obsolte</b>.
 ##### * In the Unity Eiditor, 'Sprite Slice' is not simple. If they were many Sprites, should slice a lot of borders.
 ##### * So, I made up Texture Import Settings and Slice Settings on the Editor Window.
 
