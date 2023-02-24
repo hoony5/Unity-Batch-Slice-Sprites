@@ -1,4 +1,4 @@
-# UnityUtil-AutoSpriteSlicer
+# UnityUtil-Auto Sprites Batch Slicer
 
 ## Intro.
 
